@@ -2,8 +2,7 @@
 
 AdaptiveSteel is an experimental OpenSees uniaxial material for cyclic steel response with strength, post-capping, and stiffness deterioration. An optional adaptive mode updates the response using the axial force of a monitored OpenSees element.
 
-This repository makes AdaptiveSteel publicly available to support research transparency and reproducibility. 
-Usage permissions and restrictions are described in the [LICENSE.md](LICENSE.md).
+This repository makes AdaptiveSteel publicly available to support research transparency and reproducibility.
 
 The author plans to propose AdaptiveSteel for inclusion as a built-in material
 in a future OpenSees release. Inclusion and release timing are subject to review
